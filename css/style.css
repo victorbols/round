@@ -105,7 +105,7 @@ body {
     width: auto;
     height: auto;
     z-index: -1;
-    background: url("../video/ring.mp4") no-repeat;
+    background: url("../video/ring.jpg") no-repeat;
     background-size: cover;
 }
 

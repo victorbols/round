@@ -502,10 +502,10 @@
 
 @media (max-width: 480px) {
     /* Home */
-
-    h1 {
-          font-size: 18px;
+    .animation{
+    margin-left: -20px;
     }
+    
     #headerpf h1 {
         font-size: 18px;
     }
