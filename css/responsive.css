@@ -495,11 +495,18 @@
 }
 
 
+
+
+
 /* Extra Small Devices (Portrait Phones & Smaller Devices) */
 
 @media (max-width: 480px) {
     /* Home */
-    #home-heading h1 {
+
+    h1 {
+          font-size: 18px;
+    }
+    #headerpf h1 {
         font-size: 18px;
     }
     #home-text p {
@@ -659,6 +666,10 @@
 /* Extra Small Devices (Landscape Phones & Portrait Tablets) */
 
 @media (max-width: 767px) {
+
+    .animation{
+    margin-left: -5px;
+}
     /* Navigaiton */
     .navbar {
         padding: 20px 0;
