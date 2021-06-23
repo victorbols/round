@@ -506,9 +506,7 @@
     margin-left: -20px;
     }
     
-    #headerpf h1 {
-        font-size: 18px;
-    }
+   
     #home-text p {
         font-size: 11px;
         line-height: 16px;
@@ -885,9 +883,7 @@
 
 @media (max-width: 480px) {
     /* Home */
-    #home-heading h1 {
-        font-size: 18px;
-    }
+   
     #home-text p {
         font-size: 11px;
         line-height: 16px;
